@@ -2,7 +2,7 @@
 
 # How to run the code:
 ```
-python3 ex7.py movies.txt new_movies.txt
+python3 simple_IMDB.py movies.txt new_movies.txt
 ```
 movies.txt - the input script such as provided:
 ```
