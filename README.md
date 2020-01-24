@@ -1,11 +1,6 @@
-Creating a simple movies Data Base:
+**Creating a simple movies Data Base:**
 
-**Prerequisites**
-
-Make sure to provide a movies
-
-
-How to run the code:
+# How to run the code:
 ```
 python3 ex7.py movies.txt new_movies.txt
 ```
