@@ -217,7 +217,7 @@ def check_actor(actor_query, our_db):
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-* Function name: query_by_actor*
+* Function name: query_by_actor *
 
 * The Input: A data-base (dictionary)	*
 
@@ -253,7 +253,7 @@ def query_by_actor(our_db):
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-* Function name: insert_a_new_movie*
+* Function name: insert_a_new_movie *
 
 * The Input: A movies and actresses to add to our data-base*
 
@@ -283,7 +283,7 @@ def insert_a_new_movie(our_db):
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-* Function name: save_to_file*
+* Function name: save_to_file *
 
 * The Input: A data-base and an output txt file *
 
@@ -326,7 +326,7 @@ def save_to_file(our_db, output_file):
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-* Function name: enry_menu*
+* Function name: enry_menu *
 
 * The Input: A movies input txt file an output txt file, given as arguments from the command-line*
 
@@ -337,7 +337,6 @@ def save_to_file(our_db, output_file):
 * If 4 is chosen we save the output file and exit, if 5 is chosen we stop the program*
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-
 
 def entry_menu(movies_file, output_file):
     print("Processing...")
